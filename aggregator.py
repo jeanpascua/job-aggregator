@@ -10,7 +10,7 @@ import hashlib
 from pathlib import Path
 from datetime import datetime, timezone
 
-DISCORD_WEBHOOK = os.environ["DISCORD_WEBHOOK"]
+DISCORD_WEBHOOK = os.environ["DISCORD_WEBHOOK_URL"]
 SEEN_FILE = Path(__file__).parent / "seen_jobs.json"
 
 KEYWORDS = [
