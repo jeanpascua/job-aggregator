@@ -38,7 +38,11 @@ EXCLUDE_LOCATIONS = [
     "india", "inr ", "latam", "latin america", "brazil", "brasil",
     "argentina", "colombia", "mexico", "poland", "uk only", "europe only",
     "south korea", "korea", "japan", "australia only", "new zealand",
-    "applicants only",
+    "u.s. applicants only", "us applicants only", "usa applicants only",
+    "american applicants only", "uk applicants only", "eu applicants only",
+    "europe applicants only", "european applicants only",
+    "must be located in the us", "must reside in the us",
+    "us residents only", "u.s. residents only", "us citizens only",
 ]
 
 FEEDS = [
