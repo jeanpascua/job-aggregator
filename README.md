@@ -6,7 +6,8 @@ Polls job board RSS feeds every 2 hours and sends matching DevOps/infrastructure
 
 - RemoteOK (devops, sysadmin, linux categories)
 - WeWorkRemotely (devops/sysadmin category)
-- Job Bank Canada (devops, systems administrator, linux administrator)
+- Jobicy (admin category)
+- Himalayas (all remote jobs)
 
 ## Filters
 
