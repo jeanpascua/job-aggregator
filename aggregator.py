@@ -50,9 +50,8 @@ FEEDS = [
     ("RemoteOK", "https://remoteok.com/remote-sys-admin-jobs.rss"),
     ("RemoteOK", "https://remoteok.com/remote-linux-jobs.rss"),
     ("WeWorkRemotely", "https://weworkremotely.com/categories/remote-devops-sysadmin-jobs.rss"),
-    ("JobBank", "https://www.jobbank.gc.ca/jobsearch/feed/jobSearchRSSfeed?fage=2&fcid=296118&term=devops&sort=D&rows=100"),
-    ("JobBank", "https://www.jobbank.gc.ca/jobsearch/feed/jobSearchRSSfeed?fage=2&fcid=1445&fcid=3751&fcid=297553&term=systems+administrator&sort=D&rows=100"),
-    ("JobBank", "https://www.jobbank.gc.ca/jobsearch/feed/jobSearchRSSfeed?dkw=linux&fage=2&fcid=249&fcid=1090&fcid=1445&fcid=1923&fcid=1973&fcid=12369&fcid=12511&fcid=17389&fcid=25772&fcid=26655&fcid=227133&fcid=296309&fcid=296873&fcid=297236&fcid=297274&fcid=297530&fcid=297553&fn21=00011&fn21=10010&fn21=10019&fn21=11109&fn21=11202&fn21=12102&fn21=13100&fn21=13101&fn21=14103&fn21=21223&fn21=22220&fn21=30010&fn21=40010&fn21=40020&fn21=40021&fn21=40030&fn21=50010&term=administrator&sort=D&rows=100"),
+    ("Jobicy", "https://jobicy.com/?feed=job_feed&job_categories=admin"),
+    ("Himalayas", "https://himalayas.app/jobs/rss"),
 ]
 
 
